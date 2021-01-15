@@ -1,0 +1,15 @@
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Infrustructure.deps.json
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Infrustructure.dll
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.csprojAssemblyReference.cache
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.AssemblyInfoInputs.cache
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.AssemblyInfo.cs
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Infrustructure.runtimeconfig.json
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Infrustructure.runtimeconfig.dev.json
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Infrustructure.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.csproj.CoreCompileInputs.cache
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.csproj.CopyComplete
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.dll
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Infrustructure\obj\Debug\netcoreapp3.1\Ordering.Infrustructure.genruntimeconfig.cache

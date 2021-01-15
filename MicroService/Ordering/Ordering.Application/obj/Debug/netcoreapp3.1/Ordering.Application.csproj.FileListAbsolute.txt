@@ -1,0 +1,12 @@
+F:\MicroService\MicroService\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.deps.json
+F:\MicroService\MicroService\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+F:\MicroService\MicroService\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csprojAssemblyReference.cache
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfoInputs.cache
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfo.cs
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CoreCompileInputs.cache
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.dll
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+F:\MicroService\MicroService\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+F:\MicroService\MicroService\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CopyComplete
